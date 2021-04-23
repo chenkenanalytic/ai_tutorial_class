@@ -9,3 +9,5 @@
 ### <a href="https://github.com/chenkenanalytic/ai_tutorial_class/blob/main/lesson%203/chatterbot_intro.ipynb">Lesson 3. Chatterbot 簡易實作</a>
 
 ref: https://www.kaggle.com/paramarthasengupta/hr-analytics-prediction-why-do-people-resign
+
+https://traditional-chinese-handwriting.github.io/ 
